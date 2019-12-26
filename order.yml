@@ -1,2 +1,2 @@
-scope:
-  test
+tet:
+  scope: test
